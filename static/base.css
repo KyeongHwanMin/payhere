@@ -1,0 +1,12 @@
+.payhere_header{
+    text-align:center; margin: 2rem 0;
+}
+.payhere_header_logo{
+    font-family: 'Nanum Pen Script', cursive;
+}
+.payhere_footer{
+    text-align:center; margin-top : 2rem;
+}
+.payhere_footer_button{
+    font-size: 0.6rem;
+}
